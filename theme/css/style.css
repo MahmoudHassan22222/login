@@ -1,0 +1,23 @@
+body{
+
+}
+form{
+  max-width: 500px;
+  margin: 120px auto 0;
+}
+form input{
+  margin-bottom: 3px;
+}
+.register p{
+  font-size: 16px;
+  margin: 10px 0 10px;
+}
+.register span{
+  font-size: 22px;
+  color: #0b7350;
+}
+.errors{
+  max-width: 500px;
+  margin: auto;
+  font-size: 18px;
+}
